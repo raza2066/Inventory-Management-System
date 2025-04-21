@@ -1,0 +1,5 @@
+INSERT INTO vendor (vendor_id, vendor_name, vendor_address, contact_number, contact_person) VALUES ('V001', 'Alpha Supplies', '123 Main St, New York, NY', 9876543210, 'John Doe');
+INSERT INTO vendor (vendor_id, vendor_name, vendor_address, contact_number, contact_person) VALUES ('V002', 'Beta Traders', '456 Elm St, Los Angeles, CA', 8765432109, 'Jane Smith');
+INSERT INTO vendor (vendor_id, vendor_name, vendor_address, contact_number, contact_person) VALUES ('V003', 'Gamma Distributors', '789 Oak St, Chicago, IL', 7654321098, 'Robert Brown');
+INSERT INTO vendor (vendor_id, vendor_name, vendor_address, contact_number, contact_person) VALUES ('V004', 'Delta Wholesale', '101 Pine St, Houston, TX', 6543210987, 'Emily Davis');
+INSERT INTO vendor (vendor_id, vendor_name, vendor_address, contact_number, contact_person) VALUES ('V005', 'Epsilon Goods', '202 Maple St, Miami, FL', 5432109876, 'Michael Johnson');
